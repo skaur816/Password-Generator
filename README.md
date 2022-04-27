@@ -1,6 +1,6 @@
 # passwordgenerator
 The link to the page: https://skaur816.github.io/homework-3/
-Screenshot of Page: 
+Screenshot of Page: ![image](https://user-images.githubusercontent.com/99299194/165418145-cb7633c0-714c-45eb-86d0-c94c3599ef88.png)
 
 
 This is the Week 3 homework where we were asked to use JavaScript to allow a user to generate a password with a chosen set of parameters. The exact requirements are listed below:
